@@ -1,12 +1,9 @@
-Isabella Coutinho
+## Isabella Coutinho :)
 
-Desenvolvedora Front-End  com conhecimentos em HTML, CSS e javascript
+Desenvolvedora Fullstack com conhecimento em Front-End.
 
-Cursando ADS na Universidade do Distrito Federal
+Cursando Análise e Desenvolvimento de Sistemas na Universidade do Distrito Federal, aprendendendo novas tecnologias.
 
-Em busca de melhorar meus conhecimentos de forma que melhore meus resultados cada vez mais
+Buscando novas formas de mudar o mundo.
 
-<!---
-aabellis/aabellis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/-Isabella%20Coutinho-6a994e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellacouts/)](https://www.linkedin.com/in/isabellacouts/) [![Gmail Badge](https://img.shields.io/badge/-isabellacoutinho098%40gmail.com-6a994e?style=flat-square&logo=gmail&logoColor=white&link=mailto:isabellacoutinho098@gmail.com)](mailto:isabellacoutinho098@gmail.com)
